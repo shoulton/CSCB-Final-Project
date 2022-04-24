@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 *.bed
 *.h5ad
+download*
+*.zip
